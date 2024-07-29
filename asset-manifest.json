@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/redux-to-do-list/static/js/main.81598f93.js",
+    "index.html": "/redux-to-do-list/index.html",
+    "main.81598f93.js.map": "/redux-to-do-list/static/js/main.81598f93.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.81598f93.js"
+  ]
+}
